@@ -7,8 +7,6 @@ Udacity Nanodegree Program -Deep Reinforcement Learning
 [image2]: https://user-images.githubusercontent.com/10624937/43851646-d899bf20-9b00-11e8-858c-29b5c2c94ccc.png "Crawler"
 
 
-# Project 2: Continuous Control
-
 ### Introduction - Environment 
 
 In this project, it was assigned by the Udacity's directive to work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
